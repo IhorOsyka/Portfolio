@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Films>
+	<Film>
+		<Title>The Shawshank Redemption</Title>
+		<Data>1994</Data>
+		<Director>Frank Darabont</Director>
+		<Genre>Drama</Genre>
+		<Recommended for children>false</Recommended for children>
+	</Film>
+	<Film>
+		<Title>The Seven</Title>
+		<Data>1995</Data>
+		<Director>David Fincher</Director>
+		<Genre>Detective</Genre>
+		<Recommended for children>false</Recommended for children>
+	</Film>
+	<Film>
+		<Title>The Lion King</Title>
+		<Data>1994</Data>
+		<Director>Roger Allers</Director>
+		<Genre>Cartoon</Genre>
+		<Recommended for children>true</Recommended for children>
+	</Film>
+	<Film>
+		<Title>The Braveheart</Title>
+		<Data>1995</Data>
+		<Director>Mel Gibson</Director>
+		<Genre>Action</Genre>
+		<Recommended for children>false</Recommended for children>
+	</Film>
+	<Film>
+		<Title>The Toy Story</Title>
+		<Data>1995</Data>
+		<Director>John Lasseter</Director>
+		<Genre>Cartoon</Genre>
+		<Recommended for children>true</Recommended for children>
+	</Film>
+</Films>

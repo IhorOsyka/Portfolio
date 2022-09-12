@@ -1,0 +1,38 @@
+{
+"Films": [
+	{
+	"Title": "The Shawshank Redemption",
+	"Data": 1994,
+	"Director": "Frank Darabont",
+	"Genre": "Drama",
+	"Recommended for children": false
+	},
+	{
+	"Title": "The Seven",
+	"Data": 1995,
+	"Director": "David Fincher",
+	"Genre": "Detective",
+	"Recommended for children": false
+	},
+	{
+	"Title": "The Lion King",
+	"Data": 1994,
+	"Director": "Roger Allers",
+	"Genre": "Cartoon",
+	"Recommended for children": true
+	},
+	{
+	"Title": "The Braveheart",
+	"Data": 1995,
+	"Director": "Mel Gibson",
+	"Genre": "Action",
+	"Recommended for children": false
+	},
+	{"Title": "The Toy Story",
+	"Data": 1995,
+	"Director": "John Lasseter",
+	"Genre": "Cartoon",
+	"Recommended for children": true
+	}
+	]
+}

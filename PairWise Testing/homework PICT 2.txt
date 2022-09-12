@@ -1,0 +1,36 @@
+BRAND: Apple, Dell, HP, Lenovo, NO BRAND
+SCREEN DIAGONAL: 13", 14", 16"-17", 18"-20"
+SSD: 256 GB, 512 GB, 1 TB, 2+ TB
+SCREEN RESOLUTION: Full HD, 2K, 4K
+COLOR: White, Gold, Black, Blue
+PRODUCT STATUS: Out of stock, Available, Finished, Ends, Expected
+----------------------------------------------------------------------------------------
+
+BRAND	   SCREEN DIAGONAL	   SSD	      SCREEN RESOLUTION	    COLOR	 PRODUCT STATUS
+HP	        13"	              256 GB	       4K	            White	   Out of stock
+Lenovo	    16"-17"	          512 GB	       2K	            Black	   Finished
+Apple	    16"-17"	          1 TB	           Full HD	        Gold	   Available
+NO BRAND    18"-20"	          2+ TB	           2K	            Blue	   Available
+Lenovo	    14"	              2+ TB	           4K	            Gold	   Ends
+HP	        13"	              512 GB	       Full HD	        Blue   	   Ends
+Apple	    18"-20"	          256 GB	       4K	            Black	   Expected
+Dell	    16"-17"	          2+ TB	           Full HD	        White	   Expected
+HP	        14"	              1 TB	           2K	            Black	   Available
+Dell	    18"-20"	          1 TB	           4K	            Blue	   Out of stock
+Apple	    13"	              512 GB	       2K	            Gold	   Out of stock
+Lenovo	    14"	              256 GB	       Full HD	        White	   Out of stock
+Apple	    18"-20"      	  1 TB	           2K	            White	   Ends
+NO BRAND    13"	              2+ TB	           Full HD	        Black	   Out of stock
+Dell	    13"          	  256 GB           4K	            Gold	   Finished
+Apple	    14"          	  2+ TB	           Full HD	        Blue	   Finished
+Lenovo	    18"-20"	          512 GB	       4K	            Blue	   Available
+Dell	    16"-17"	          256 GB	       2K	            Black	   Ends
+Dell	    14"           	  512 GB	       Full HD	        White	   Available
+HP	        13"	              1 TB	           2K	            Gold	   Expected
+NO BRAND    16"-17"	          512 GB	       4K	            Blue	   Expected
+NO BRAND    18"-20"	          256 GB	       Full HD	        White	   Finished
+HP	        18"-20"	          1 TB	           Full HD	        Gold	   Finished
+Lenovo	    14"	              1 TB	           4K	            Gold	   Expected
+Lenovo	    13"	              256 GB	       4K	            Blue	   Available
+NO BRAND    14"	              1 TB	           Full HD	        Gold	   Ends
+HP	        16"-17"	          2+ TB	           2K	            Blue	   Out of stock

@@ -1,0 +1,34 @@
+SELLER: Rozetka, Other sellers
+BRAND: BEKO, LG, Samsung, Whirlpool, NO BRAND
+PRODUCING COUNTRY: Germany, Indonesia, China, Poland, Japan
+NEW-USED: NEW, USED
+PRODUCT STATUS: Out of stock, Available, Finished, Ends, Expected
+----------------------------------------------------------------------------------------
+SELLER	          BRAND	     PRODUCING COUNTRY	   NEW-USED	     PRODUCT STATUS
+Rozetka	          BEKO	           China	         NEW	      Out of stock
+Other sellers     Samsung	       Germany	         USED	      Expected
+Rozetka	          NO BRAND	       Indonesia	     USED	      Finished
+Other sellers	  BEKO	           Indonesia	     NEW	      Ends
+Other sellers	  Samsung	       Poland	         NEW	      Out of stock
+Other sellers	  Whirlpool	       China	         USED	      Available
+Rozetka	          LG	           Indonesia	     NEW	      Expected
+Other sellers	  NO BRAND	       China  	         NEW	      Expected
+Rozetka	     	  BEKO	           Japan	         USED	      Available
+Other sellers	  Samsung	       Japan 	         NEW	      Finished
+Other sellers	  LG	           Poland	         USED	      Available
+Rozetka	          Samsung	       China	         USED	      Ends
+Rozetka	          Whirlpool	       Poland	         NEW	      Expected
+Rozetka	          NO BRAND	       Germany	         NEW	      Ends
+Other sellers	  Whirlpool	       Indonesia	     USED	      Out of stock
+Other sellers	  Whirlpool	       Germany	         USED	      Finished
+Other sellers	  LG	           Japan	         NEW	      Out of stock
+Rozetka	          LG	           China	         USED	      Finished
+Rozetka	          BEKO	           Poland	         NEW	      Finished
+Other sellers	  BEKO	           Germany	         NEW	      Available
+Rozetka 	      Samsung	       Indonesia	     USED	      Available
+Rozetka	          BEKO	           Japan 	         USED	      Expected
+Other sellers	  NO BRAND	       Japan 	         NEW	      Available
+Rozetka	          Whirlpool	       Japan	         NEW	      Ends
+Other sellers	  LG	           Germany	         USED	      Ends
+Other sellers	  NO BRAND	       Poland	         NEW	      Ends
+Other sellers	  NO BRAND	       Germany	         USED	      Out of stock
